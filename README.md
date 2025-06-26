@@ -87,6 +87,12 @@ A modular healthcare assistant that offers:
 
 ---
 
+## 📌Video
+
+**https://drive.google.com/file/d/1-CmApXOKZDljdTf45f4BWLQ9qejB3V33/view?usp=sharing**
+
+---
+
 ## 📌Impact
 
 - Faster and more accurate diagnosis through AI-based automation
